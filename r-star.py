@@ -1,3 +1,4 @@
-n=5
-for i in range(i, n+1):
-print("*" * 1)
+# Right triangle
+rows = 5
+for i in range(1, rows + 1):
+    print("*" * i)
